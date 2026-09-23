@@ -32,6 +32,8 @@ Esta modificacion nos sirve para aprender markdown que por ejemplos los titulos 
 
 That is so funny! :joy:
 
+
+~~The world is flat.~~
   
    
 
