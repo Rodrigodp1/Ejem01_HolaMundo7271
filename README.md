@@ -27,7 +27,7 @@ Esta modificacion nos sirve para aprender markdown que por ejemplos los titulos 
 
 
 - [x] Write the press release
-- [ ] Update the website
+- [x] Update the website
 - [ ] Contact the media
 
   
