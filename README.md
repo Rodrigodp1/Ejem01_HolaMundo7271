@@ -20,6 +20,13 @@ Esta modificacion nos sirve para aprender markdown que por ejemplos los titulos 
 
 [Gregorio Fernandez](https://www.gregoriofer.com)
 	
+
+| version | Modificacion | Propietario de la modificacion |
+
+| ---- | ---- | ---- |
+
+|1.0| creacion del readme[Rodrigo]
+
   
    
 
