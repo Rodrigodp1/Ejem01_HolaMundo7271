@@ -25,6 +25,16 @@ Esta modificacion nos sirve para aprender markdown que por ejemplos los titulos 
 | ---- | ---- | ---- |
 |1.0| creacion del readme[Rodrigo] 
 
+
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
   
    
 
