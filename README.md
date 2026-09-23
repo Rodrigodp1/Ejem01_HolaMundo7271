@@ -37,6 +37,12 @@ That is so funny! :joy:
 
 ### My Great Heading {#custom-id}
   
-   
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```   
 
 
